@@ -62,7 +62,7 @@ public class telaLogin extends JFrame {
 		lblNewLabel_1.setFont(new Font("Tahoma", Font.PLAIN, 10));
 		lblNewLabel_1.setForeground(SystemColor.control);
 		lblNewLabel_1.setBackground(Color.WHITE);
-		lblNewLabel_1.setBounds(49, 442, 276, 19);
+		lblNewLabel_1.setBounds(62, 442, 276, 19);
 		contentPane.add(lblNewLabel_1);
 		
 		JLabel lblUsurio = new JLabel("Usu\u00E1rio:");
